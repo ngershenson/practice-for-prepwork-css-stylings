@@ -1,37 +1,43 @@
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px;
+    margin: 0px;
+    font-weight: 750;
+    text-decoration: underline rgb(244, 178, 119);
+    color: rgb(244, 178, 119);
+    text-shadow: 2px 0 #fe6a00, -2px 0 #fe6a00, 0 2px #fe6a00, 0 -2px #fe6a00,
+    1px 1px #fe6a00, -1px -1px #fe6a00, 1px -1px #fe6a00, -1px 1px #fe6a00;
+    background-color: rgb(99, 184, 212);
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    color: ;
-    background-color: ;
+    font-size: 60px;
+    font-family: cursive;
+    padding: 5px;
+    margin: 0px;
+    font-weight: 250;
+    color: rgb(244, 178, 119);
+    text-shadow: 2px 0 #fe6a00, -2px 0 #fe6a00, 0 2px #fe6a00, 0 -2px #fe6a00,
+    1px 1px #fe6a00, -1px -1px #fe6a00, 1px -1px #fe6a00, -1px 1px #fe6a00;
+    background-color: rgb(107, 162, 131);
 }
 
 p {
-    font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    text-shadow: 1px 0 black, -1px 0 black, 0 1px black, 0 -1px black,
+    .5px .5px black, -.5px -.5px black, .5px -.5px black, -.5px .5px black;
+    background-color: rgb(99, 184, 212);
 }
 
 .logo {
-    background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+    background-size: 50px ;
+    background-image: url(https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png);
+    background-color: rgb(107, 162, 131);
+    height: 50px;
+    width: auto;
 }
